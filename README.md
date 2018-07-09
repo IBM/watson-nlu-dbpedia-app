@@ -16,7 +16,7 @@ The backend is implemented using IBM Cloud Functions.
 </p>
 
 ## Try it out
-To see the live workkng demo, navigate to [https://nlu-web.mybluemix.net](https://nlu-web.mybluemix.net)
+To see the live working demo, navigate to [https://nlu-web.mybluemix.net](https://nlu-web.mybluemix.net)
 
 ## Prerequisities
 - Required [IBM Cloud account](https://www.bluemix.net). Lite / Free tier is sufficient.
